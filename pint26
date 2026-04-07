@@ -9,7 +9,7 @@
     "ApplovinNative": "1eda6d2dce5325ed",
     "applovinBanner": "cc53a3be3e306a28",
     "unityGameId": "",
-    "testMode": true,
+    "testMode": false,
     "unityBanner": "",
     "unityInterstitial": ""
   }
