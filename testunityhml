@@ -7,13 +7,13 @@
     "applovinInterstitial": "89d9bcbf4c1f79ef",
     "ApplovinNative": "89d9bcbf4c1f79ef",
     "unityGameId": "6088239",
-    "ads": "enable",
+    "ads": "disable",
     "testMode": true,
     "modeads": true,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
     "unityRewarded": "Rewarded_Android",
 
-    "reviewActive": true
+    "reviewActive": false
   }
 }
