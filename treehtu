@@ -7,7 +7,7 @@
     "applovinInterstitial": "446df88045d26432",
     "ApplovinNative": "89d9bcbf4c1f79ef",
     "unityGameId": "6089632",
-    "ads": "disable",
+    "ads": "enable",
     "testMode": enable,
     "modeads": enable,
     "unityBanner": "Banner_Android",
