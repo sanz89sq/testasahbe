@@ -1,12 +1,12 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "unity",
     "admobBanner": "ca-app-pub-3940256099942544/9214589741",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "applovinBanner": "8518a0638011c329",
     "applovinInterstitial": "446df88045d26432",
     "ApplovinNative": "89d9bcbf4c1f79ef",
-    "unityGameId": "6093683",
+    "unityGameId": "6093687",
     "ads": "enable",
     "testMode": "enable",
     "modeads": "enable",
