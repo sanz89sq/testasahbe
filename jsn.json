@@ -10,7 +10,7 @@
 
     "unityGameId": "6094609",
     "ads": "enable",
-    "testMode": "disable",
+    "testMode": "enable",
     "modeads": "enable",
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
