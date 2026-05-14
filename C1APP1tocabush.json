@@ -1,0 +1,22 @@
+{
+  "AdsController": {
+    "gameSite": "https://tb-world.games.playgama.net/cm5bl98xl0028x80e65oyhqjw_o/",
+    "adNetwork": "applovin",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "applovinInterstitial": "adb7161ff2ac2292",
+    "applovinNative": "8a44cfb0322ba6a1",
+    "applovinAppOpen": "79370989dcdb46e6",
+    "unityGameId": "6094609",
+    "ads": "enable",
+    "testMode": true,
+    "inapp": true,
+    "unityInterstitial": "Interstitial_Android",
+    "unityRewarded": "Rewarded_Android",
+    "html": "no",
+    "reviewpopup": "yes",
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it."
+  }
+}
