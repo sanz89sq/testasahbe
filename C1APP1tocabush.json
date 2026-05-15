@@ -11,7 +11,6 @@
     "inapp": true,
     "unityInterstitial": "Interstitial_Android",
     "unityRewarded": "Rewarded_Android",
-    "html": "no",
     "reviewpopup": "yes",
     "suspended": "no",
     "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
