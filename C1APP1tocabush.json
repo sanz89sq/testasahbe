@@ -2,9 +2,9 @@
   "AdsController": {
     "adNetwork": "applovin",
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "applovinInterstitial": "5e3dc85ee3c7a2a7",
-    "applovinAppOpen": "be3c67032d134e0c",
-    "applovinRewarded": "85a6b383596f6e84",
+    "applovinInterstitial": "611a70e8eb86e4f9",
+    "applovinAppOpen": "5e4d7f5bbceb97c6",
+    "applovinRewarded": "68287d2fbee68cf7",
     "unityGameId": "6094609",
     "ads": "enable",
     "testMode": true,
