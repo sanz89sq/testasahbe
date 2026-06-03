@@ -1,0 +1,29 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "applovinInterstitial": "5b8d177874fbef4e",
+    "applovinAppOpen": "bd362fc819e9eb7c",
+    "applovinRewarded": "80568d0056c96b79",
+    "unityGameId": "6094609",
+    "ads": "enable",
+    "testMode": true,
+    "inapp": false,
+    "unityInterstitial": "Interstitial_Android",
+    "unityRewarded": "Rewarded_Android",
+    "reviewpopup": "yes",
+    "suspended": "no",
+    "costumbanner": "no",
+    "merchLink": "https://www.teepublic.com/user/toonsworld",
+    "banner_text": "Dandy's World Shirts",
+    "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/ad1.png",
+    "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/ad2.png",
+    "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/ad3.png",
+    "shirt1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
+    "shirt2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
+    "shirt3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it."
+  }
+}
