@@ -11,7 +11,7 @@
     "interstitialIntervalSec": 60,
     "appOpenIntervalSec":      60,
     "clickPauseSec":           300,
-    "interBlocksAppOpenSec":   120
+    "interBlocksAppOpenSec":   120,
     "ads": "enable",
     "testMode": true,
     "inapp": true,
