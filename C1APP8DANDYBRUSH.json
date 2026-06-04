@@ -9,7 +9,7 @@
     "applovinRewarded": "80568d0056c96b79",
     "unityGameId": "6094609",
     "ads": "enable",
-    "testMode": true,
+    "testMode": false,
     "inapp": true,
     "unityInterstitial": "Interstitial_Android",
     "unityRewarded": "Rewarded_Android",
