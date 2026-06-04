@@ -8,6 +8,10 @@
     "applovinAppOpen": "bd362fc819e9eb7c",
     "applovinRewarded": "80568d0056c96b79",
     "unityGameId": "6094609",
+    "interstitialIntervalSec": 60,
+    "appOpenIntervalSec":      60,
+    "clickPauseSec":           300,
+    "interBlocksAppOpenSec":   120
     "ads": "enable",
     "testMode": true,
     "inapp": true,
