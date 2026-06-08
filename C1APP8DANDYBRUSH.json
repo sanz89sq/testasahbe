@@ -1,9 +1,9 @@
 {
   "AdsController": {
     "adNetwork": "admob",
-    "admobInterstitial": "ca-app-pub-7023905693048261/6304444658",
-    "admobAppOpen": "ca-app-pub-7023905693048261/4584168878",
-    "admobRewarded": "ca-app-pub-7023905693048261/7166404109",
+    "admobInterstitial": "ca-app-pub-8735931160641664/6558909768",
+    "admobAppOpen": "ca-app-pub-8735931160641664/5960143965",
+    "admobRewarded": "ca-app-pub-8735931160641664/7849460619",
     "applovinInterstitial": "5b8d177874fbef4e",
     "applovinAppOpen": "bd362fc819e9eb7c",
     "applovinRewarded": "80568d0056c96b79",
