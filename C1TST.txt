@@ -1,0 +1,16 @@
+{
+  "AdsController": {
+    "ads": "enable",
+    "adNetwork": "admob",
+    "testads": "true",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110",
+    "admobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+    "fanInterstitial": "YOUR_FACEBOOK_INTERSTITIAL_PLACEMENT_ID",
+    "fanRewarded": "",
+    "fanNativeBanner": "YOUR_FACEBOOK_NATIVE_BANNER_PLACEMENT_ID",
+    "applovinInterstitial": "7048615b3e70a56d",
+    "applovinNative": ""
+  }
+}
