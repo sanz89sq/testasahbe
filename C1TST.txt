@@ -4,6 +4,12 @@
     "adNetwork": "admob",
     "testads": "true",
 
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it.",
+
+
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
     "admobNative": "ca-app-pub-3940256099942544/2247696110",
