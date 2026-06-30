@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "fan",
+    "adNetwork": "admob",
     "ads": "enable",
     "inapp": true,
     "reviewpopup": "yes",
