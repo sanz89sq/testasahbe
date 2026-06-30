@@ -11,10 +11,10 @@
     "admobRewarded": "ca-app-pub-7757069622252358/9435340189",
     "admobNative": "ca-app-pub-7757069622252358/1645882441",
 
-    "applovinInterstitial": "c4aa67380e8d69b3",
-    "applovinAppOpen": "d589b65d52e07071",
-    "applovinRewarded": "70629a3f83860728",
-    "applovinNative": "c78019ab7e05f056",
+    "applovinInterstitial": "e0cfd3c00814d151",
+    "applovinAppOpen": "a2c60f74e46334f7",
+    "applovinRewarded": "e22bd27ec2f2c190",
+    "applovinNative": "0d18e9b88cdd484a",
 
     "unityGameId": "6094609",
     "testMode": false,
