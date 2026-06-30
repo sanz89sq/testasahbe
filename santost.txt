@@ -17,7 +17,7 @@
     "applovinNative": "0d18e9b88cdd484a",
 
     "unityGameId": "6094609",
-    "testMode": false,
+    "testMode": true,
     "unityInterstitial": "Interstitial_Android",
 
     "fanInterstitial": "1388106280016746_1388107366683304",
