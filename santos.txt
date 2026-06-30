@@ -1,0 +1,41 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "ads": "enable",
+    "inapp": true,
+    "reviewpopup": "yes",
+    "costumbanner": "no",
+
+    "admobInterstitial": "ca-app-pub-7757069622252358/2958964114",
+    "admobAppOpen": "ca-app-pub-7757069622252358/4646047933",
+    "admobRewarded": "ca-app-pub-7757069622252358/9435340189",
+    "admobNative": "ca-app-pub-7757069622252358/1645882441",
+
+    "applovinInterstitial": "c4aa67380e8d69b3",
+    "applovinAppOpen": "d589b65d52e07071",
+    "applovinRewarded": "70629a3f83860728",
+    "applovinNative": "c78019ab7e05f056",
+
+    "unityGameId": "6094609",
+    "testMode": false,
+    "unityInterstitial": "Interstitial_Android",
+
+    "fanInterstitial": "1388106280016746_1388107366683304",
+    "fanNativeCard": "1388106280016746_1388108453349862",   
+    "fanNativeBanner":     "1388106280016746_1388109463349761",  
+    "fanRewarded": "1388106280016746_1388109816683059",
+
+    "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/",
+    "teepublicLink": "https://www.teepublic.com/user/toonsworld",
+    "banner_text": "Dandy's World Shirts",
+
+    "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
+    "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
+    "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
+
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it."
+  }
+}
