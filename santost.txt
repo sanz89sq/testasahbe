@@ -6,10 +6,10 @@
     "reviewpopup": "yes",
     "costumbanner": "no",
 
-    "admobInterstitial": "ca-app-pub-7757069622252358/2958964114",
-    "admobAppOpen": "ca-app-pub-7757069622252358/4646047933",
-    "admobRewarded": "ca-app-pub-7757069622252358/9435340189",
-    "admobNative": "ca-app-pub-7757069622252358/1645882441",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+    "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110",
 
     "applovinInterstitial": "e0cfd3c00814d151",
     "applovinAppOpen": "a2c60f74e46334f7",
