@@ -8,9 +8,9 @@
     "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/Pebbleeu/",
     "board0": "forsaken-wallpapers/pins/",
     "board0_name": "Trending",
-    "board1": "",
+    "board1": "forsaken-wallpapers/pins/",
     "board1_name": "Featured",
-    "board2": "D/pins/",
+    "board2": "forsaken-wallpapers/pins/",
     "board2_name": "Top pick",
 
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
