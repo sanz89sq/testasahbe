@@ -1,0 +1,48 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "ads": "enable",
+    "inapp": true,
+    "reviewpopup": "yes",
+    "costumbanner": "no",
+    "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/Pebbleeu/",
+    "board0": "forsaken-wallpapers/pins/",
+    "board0_name": "Trending",
+    "board1": "forsaken-wallpapers/pins/",
+    "board1_name": "Featured",
+    "board2": "forsaken-wallpapers/pins/",
+    "board2_name": "Top pick",
+
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+    "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110",
+
+    "applovinInterstitial": "e0cfd3c00814d151",
+    "applovinAppOpen": "a2c60f74e46334f7",
+    "applovinRewarded": "e22bd27ec2f2c190",
+    "applovinNative": "0d18e9b88cdd484a",
+
+    "unityGameId": "6094609",
+    "testMode": true,
+    "unityInterstitial": "Interstitial_Android",
+
+    "fanInterstitial": "1388106280016746_1388107366683304",
+    "fanNativeCard": "1388106280016746_1388108453349862",   
+    "fanNativeBanner":     "1388106280016746_1388109463349761",  
+    "fanRewarded": "1388106280016746_1388109816683059",
+
+    "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/",
+    "teepublicLink": "https://www.teepublic.com/user/toonsworld",
+    "banner_text": "Dandy's World Shirts",
+
+    "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
+    "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
+    "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
+
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it."
+  }
+}
