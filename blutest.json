@@ -1,0 +1,11 @@
+{
+  "AdsController": {
+    "adNetwork": "unity",
+    "ads": "enable",
+    "applovinInterstitial": "89d9bcbf4c1f79ef",
+    "unityGameId": "5256337",
+    "testMode": false,
+    "unityInterstitial": "Interstitial_Android",
+    "reviewActive": true
+  }
+}
