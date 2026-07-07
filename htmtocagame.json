@@ -1,0 +1,63 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "ads": "enable",
+    "inapp": true,
+    "reviewpopup": "yes",
+    "costumbanner": "no",
+    "testMode": true,
+
+    "gameLink": "https://tocabocaworld.io/wp-content/uploads/games/html5/T/Toca%20Boca%20World/index.html",
+    "pinterest_base": "https://api.pinterest.com/v3/pidgets/boards/",
+    "board0": "Pebbleeu/toca-boca-room/pins/",
+    "board0_name": "Rooms",
+    "board1": "Pebbleeu/toca-boca-wallpaper/pins/",
+    "board1_name": "Trending",
+    "board2": "Pebbleeu/toca-boca-rainbow/pins/",
+    "board2_name": "Rainbow",
+    "board3": "Pebbleeu/toca-boca-character/pins/",
+    "board3_name": "Characters",
+    "board4": "Pebbleeu/toca-boca-outfit/pins/",
+    "board4_name": "Outfit",
+    "board5": "Pebbleeu/toca-boca-summer/pins/",
+    "board5_name": "Summer",
+    "board6": "Pebbleeu/toca-boca-pets/pins/",
+    "board6_name": "Pets",
+    "board7": "Simon1Studio/toca-boca-wednesday/pins/",
+    "board7_name": "Wednesday",
+    "board8": "Simon1Studio/toca-boca-mermaid/pins/",
+    "board8_name": "Mermaid",
+    "board9": "Pebbleeu/toca-boca-school/pins/",
+    "board9_name": "School",
+    "board10": "Simon1Studio/tcbocweddng/pins/",
+    "board10_name": "Love",
+
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobAppOpen": "ca-app-pub-3940256099942544/9257395921",
+    "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110",
+
+    "applovinInterstitial": "e0cfd3c00814d151",
+    "applovinAppOpen": "a2c60f74e46334f7",
+    "applovinRewarded": "e22bd27ec2f2c190",
+    "applovinNative": "0d18e9b88cdd484a",
+
+    "fanInterstitial": "1388106280016746_1388107366683304",
+    "fanNativeCard": "1388106280016746_1388108453349862",
+    "fanNativeBanner": "1388106280016746_1388109463349761",
+    "fanRewarded": "1388106280016746_1388109816683059",
+
+    "reddbubleLink": "https://www.redbubble.com/people/ChristianBoss/",
+    "teepublicLink": "https://www.teepublic.com/user/toonsworld",
+    "banner_text": "Dandy's World Shirts",
+
+    "merchpng1": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt1.png",
+    "merchpng2": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt2.png",
+    "merchpng3": "https://raw.githubusercontent.com/sanz89sq/cnsle2/refs/heads/main/shirt3.png",
+
+    "suspended": "no",
+    "suspended_icon": "https://raw.githubusercontent.com/sanz89sq/Dandypixel2026/refs/heads/main/icoon.png",
+    "suspended_link": "https://play.google.com/store/apps/details?id=com.BekoCanGames.GooGooGagaScaryFactory",
+    "suspended_message": "We have a new build — tap the image to download it."
+  }
+}
